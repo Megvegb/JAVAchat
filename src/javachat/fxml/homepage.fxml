@@ -89,7 +89,7 @@
       <Pane layoutX="150.0" layoutY="473.0" prefHeight="107.0" prefWidth="551.0" style="-fx-background-color: #D4DBC8;">
          <children>
             <TextArea fx:id="textAreaInput" layoutX="14.0" layoutY="14.0" prefHeight="76.0" prefWidth="472.0" style="-fx-background-color: #557780; -fx-border-color: #D4DBC8;" />
-            <Button fx:id="sendBtn" layoutX="491.0" layoutY="38.0" mnemonicParsing="false" style="-fx-background-color: #F9AE74; -fx-border-color: #557780;" text="Enter" textFill="#b21616">
+            <Button fx:id="sendBtn" layoutX="491.0" layoutY="38.0" mnemonicParsing="false" style="-fx-background-color: #F9AE74; -fx-border-color: #557780;" styleClass="sidebar-btn" text="Enter" textFill="#b21616">
                <font>
                   <Font name="Lobster Regular" size="16.0" />
                </font>

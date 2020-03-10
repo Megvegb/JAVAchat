@@ -1,10 +1,14 @@
 package javachat;
 
+/**
+ * @Autor Vladimir Medvedev
+ * @Date 11/03/2020
+ */
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
-import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
 public class Start extends Application {

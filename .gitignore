@@ -1,16 +1,16 @@
 # Project exclude paths
 /out/
-Будет удалено .idea/.gitignore
-Будет удалено .idea/artifacts/
-Будет удалено .idea/codeStyles/
-Будет удалено .idea/compiler.xml
-Будет удалено .idea/dbnavigator.xml
-Будет удалено .idea/description.html
-Будет удалено .idea/encodings.xml
-Будет удалено .idea/gradle.xml
-Будет удалено .idea/misc.xml
-Будет удалено .idea/modules.xml
-Будет удалено .idea/uiDesigner.xml
-Будет удалено .idea/vcs.xml
-Будет удалено GB_JAVA CHAT.iml
-Будет удалено src/.gitignore
+.idea/.gitignore
+.idea/artifacts/
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/dbnavigator.xml
+.idea/description.html
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+GB_JAVA CHAT.iml
+src/.gitignore
